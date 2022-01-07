@@ -1,0 +1,10 @@
+diff a/hello2.txt b/hello2.txt	(rejected hunks)
+@@ -1 +0,6 @@
+-동준 1번 작업 
+\ No newline at end of file
++동준 1번 작업 
++
++동준 2번 작업 
++
++동준 3번 작업 
++
